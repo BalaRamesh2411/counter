@@ -1,6 +1,5 @@
 `include"johnson_counter.v"
 
-
 module tb;
 
 reg clk;
