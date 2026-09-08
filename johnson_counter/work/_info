@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/balar_ku1rb7l/OneDrive/Documents/Quality_throught/Verilog/sequential/Counter/johnson_counter
+T_opt
+!s110 1788851441
+VIh_5FGH?iOV7jMX:[aC>m0
+04 2 4 work tb fast 0
+=1-38d57a30ae5d-6a9fb4f1-116-35a8
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.6d;65
+vjohnson_counter
+Z2 !s110 1788851440
+!i10b 1
+!s100 Y3F7FhZCh=Ba?aG7Z?ZNz3
+Iz<AUb:Nzl[MQ[]0W``>ZE3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1788851314
+8johnson_counter.v
+Fjohnson_counter.v
+L0 1
+Z4 OL;L;10.6d;65
+r1
+!s85 0
+31
+Z5 !s108 1788851440.000000
+Z6 !s107 johnson_counter.v|johnson_counter_tb.v|
+Z7 !s90 -reportprogress|300|johnson_counter_tb.v|
+!i113 0
+Z8 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vtb
+R2
+!i10b 1
+!s100 E^n>079d2;D`SBZeR_oE51
+IjFFLBBEW:eJX`lkXk8TVM0
+R3
+R0
+w1788851436
+8johnson_counter_tb.v
+Fjohnson_counter_tb.v
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
