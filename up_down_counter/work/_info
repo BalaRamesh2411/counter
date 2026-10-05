@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/balar_ku1rb7l/OneDrive/Documents/Quality_throught/Verilog/sequential/Counter/up_down_counter
+T_opt
+!s110 1790696616
+VS<_SHPAfiSm[UoIC^Yh@K1
+04 2 4 work tb fast 0
+=1-38d57a30ae5d-6abbdca8-231-74c
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.6d;65
+vtb
+Z2 !s110 1790696614
+!i10b 1
+!s100 F7hZ8O_1X]7lPG0zD48AR1
+I9O_homdEg?ITXHo>;GF232
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1790696610
+8up_down_counter_tb.v
+Fup_down_counter_tb.v
+L0 3
+Z4 OL;L;10.6d;65
+r1
+!s85 0
+31
+Z5 !s108 1790696614.000000
+Z6 !s107 up_down_counter.v|up_down_counter_tb.v|
+Z7 !s90 -reportprogress|300|up_down_counter_tb.v|
+!i113 0
+Z8 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vup_down_counter
+R2
+!i10b 1
+!s100 l1@0Ob^n;SCzca>nbI41M2
+IKeIPCRNR1`o2E8mJ=bA2g0
+R3
+R0
+w1790696262
+8up_down_counter.v
+Fup_down_counter.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
